@@ -20,6 +20,7 @@
 ## Usage 
 
     Navigate To The Location Of The Repository In The Terminal And Type "node Index.js". Please Note, This Assumes You Have A Version Of Node Already Installed On Your Machine.
+    Video showing how to use the program here: https://drive.google.com/file/d/1mTcEuVgtmMv1cvFjaHpKsbEQTHr7i-lj/view
 
 ## License 
 
