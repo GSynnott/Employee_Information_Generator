@@ -1,0 +1,26 @@
+{
+  "name": "employee_information_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSynnott/Employee_Information_Generator.git"
+  },
+  "author": "Graham Synnott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSynnott/Employee_Information_Generator/issues"
+  },
+  "homepage": "https://github.com/GSynnott/Employee_Information_Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "jest": "^29.5.0"
+  }
+}
